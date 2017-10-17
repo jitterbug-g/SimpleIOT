@@ -9,7 +9,7 @@ namespace SimpleIOT.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(SimpleIOT.Models.ApplicationDbContext context)
