@@ -29,5 +29,7 @@ namespace SimpleIOT.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<SimpleIOT.Models.Site> Sites { get; set; }
     }
 }

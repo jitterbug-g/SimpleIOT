@@ -70,6 +70,7 @@ E:\Development\SimpleIOT\SimpleIOT\bin\Microsoft.Owin.Security.OAuth.xml
 E:\Development\SimpleIOT\SimpleIOT\bin\Microsoft.Owin.Security.Google.xml
 E:\Development\SimpleIOT\SimpleIOT\bin\Microsoft.Owin.Security.Twitter.xml
 E:\Development\SimpleIOT\SimpleIOT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-E:\Development\SimpleIOT\SimpleIOT\obj\Debug\SimpleIOT.csprojResolveAssemblyReference.cache
 E:\Development\SimpleIOT\SimpleIOT\obj\Debug\SimpleIOT.dll
 E:\Development\SimpleIOT\SimpleIOT\obj\Debug\SimpleIOT.pdb
+E:\Development\SimpleIOT\SimpleIOT\obj\Debug\SimpleIOT.Migrations.Initial.resources
+E:\Development\SimpleIOT\SimpleIOT\obj\Debug\SimpleIOT.csproj.GenerateResource.Cache
