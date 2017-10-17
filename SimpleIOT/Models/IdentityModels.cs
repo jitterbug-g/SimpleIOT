@@ -31,5 +31,9 @@ namespace SimpleIOT.Models
         }
 
         public System.Data.Entity.DbSet<SimpleIOT.Models.Site> Sites { get; set; }
+
+        public System.Data.Entity.DbSet<SimpleIOT.Models.Cell> Cells { get; set; }
+
+        public System.Data.Entity.DbSet<SimpleIOT.Models.Device> Devices { get; set; }
     }
 }

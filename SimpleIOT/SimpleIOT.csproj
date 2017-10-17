@@ -178,6 +178,8 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\CellController.cs" />
+    <Compile Include="Controllers\DeviceController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\SiteController.cs" />
@@ -263,6 +265,16 @@
     <Content Include="Views\Site\Details.cshtml" />
     <Content Include="Views\Site\Edit.cshtml" />
     <Content Include="Views\Site\Index.cshtml" />
+    <Content Include="Views\Cell\Create.cshtml" />
+    <Content Include="Views\Cell\Delete.cshtml" />
+    <Content Include="Views\Cell\Details.cshtml" />
+    <Content Include="Views\Cell\Edit.cshtml" />
+    <Content Include="Views\Cell\Index.cshtml" />
+    <Content Include="Views\Device\Create.cshtml" />
+    <Content Include="Views\Device\Delete.cshtml" />
+    <Content Include="Views\Device\Details.cshtml" />
+    <Content Include="Views\Device\Edit.cshtml" />
+    <Content Include="Views\Device\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
