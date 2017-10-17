@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{29CC73B1-583F-49CF-9537-888DAD09A527}</ProjectGuid>
+    <ProjectGuid>{2F77ACD9-8A2C-4454-A338-A0C31F740494}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SimpleIOT.Tests</RootNamespace>
@@ -93,7 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SimpleIOT\SimpleIOT.csproj">
-      <Project>{CA93460B-5197-4E09-A910-0FB91DC52E79}</Project>
+      <Project>{D05DD0F2-71E5-4064-A3AB-CBC9C1819051}</Project>
       <Name>SimpleIOT</Name>
     </ProjectReference>
   </ItemGroup>
