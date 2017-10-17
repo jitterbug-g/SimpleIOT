@@ -18,8 +18,11 @@ namespace SimpleIOT.Models
         public string Password { get; set; }
         [Required]
         public string Email { get; set; }
+        public string Title { get; set; }
 
+        [Required]
         public virtual UserAccount UserAccount { get; set; }
+        [Required]
         public virtual Role Role { get; set; }
     }
 }

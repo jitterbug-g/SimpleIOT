@@ -6,15 +6,15 @@ using System.Web;
 
 namespace SimpleIOT.Models
 {
-    public class UserAccountType
+    public class DeviceType
     {
         [Key]
+        [Required]
         public int Id { get; set; }
         [Required]
         public string Name { get; set; }
+        [Required]
         public string Description { get; set; }
-
-        public virtual List<User> Users { get; set; }
-        public virtual List<Site> Sites { get; set; }
+        public string Unit { get; set; }
     }
 }
